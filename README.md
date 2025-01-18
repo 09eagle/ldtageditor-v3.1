@@ -1,5 +1,6 @@
 # ldtageditor-v3
-Forked currently up and running - hoping it works
+Forked currently up and running - hoping it works as intended
+Loads on Android 15, unable to test further
 Lego Dimensions Tag Editor - Updated
 
 This is an update version of the Lego Dimensions Tag Editor.
