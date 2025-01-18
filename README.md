@@ -1,6 +1,5 @@
-# ldtageditor-v2
-Forked but not currently up and running - hoping to get this working for new Android phones
-
+# ldtageditor-v3
+Forked currently up and running - hoping it works
 Lego Dimensions Tag Editor - Updated
 
 This is an update version of the Lego Dimensions Tag Editor.
